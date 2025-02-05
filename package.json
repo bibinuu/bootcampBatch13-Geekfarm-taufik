@@ -1,0 +1,22 @@
+{
+  "name": "bootcampbatch13-geekfarm-taufik",
+  "version": "1.0.0",
+  "description": "learn npm",
+  "main": "npmlearn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibinuu/bootcampBatch13-Geekfarm-taufik.git"
+  },
+  "author": "taufik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibinuu/bootcampBatch13-Geekfarm-taufik/issues"
+  },
+  "homepage": "https://github.com/bibinuu/bootcampBatch13-Geekfarm-taufik#readme",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
+}
