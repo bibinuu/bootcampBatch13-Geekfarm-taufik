@@ -2,7 +2,7 @@
   "name": "bootcampbatch13-geekfarm-taufik",
   "version": "1.0.0",
   "description": "learn npm",
-  "main": "npmlearn.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bibinuu/bootcampBatch13-Geekfarm-taufik#readme",
   "dependencies": {
-    "validator": "^13.12.0"
+    "validator": "^13.12.0",
+    "yargs": "^17.7.2"
   }
 }
